@@ -1,0 +1,1 @@
+https://brassworks.opnsoc.org/install?pack_url=https%3A%2F%2Fraw.githubusercontent.com%2Fopal-dragon%2Fthe-guild%2Fmain%2Fpack.toml&name=the+guild&unsup=false&shared_by=Opaldragon

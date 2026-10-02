@@ -1,0 +1,13 @@
+name = "the guild"
+author = ""
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "e1d2431fe8fbc906def3f26f4137402af5128632656ee9d50c9f4be80b8a420b"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.252"
